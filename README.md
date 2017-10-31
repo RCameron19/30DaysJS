@@ -1,6 +1,9 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+
 
 # JavaScript30
+
+Spending time in the evenings with my fiancé doing some JavaScript tutorials and projects. 👍❤️
+
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
